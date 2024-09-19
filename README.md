@@ -1,7 +1,7 @@
 # Infect
 #### Create you virus in termux!
 
-> I am not responsible for your actions. By downloading software from this repository, you agree to [license](https://github.com/mishakorzik/Infect/blob/main/LICENSE).
+> I am not responsible for your actions. By downloading software from this repository, you agree to [license](https://github.com/Hackeralok119/Infect/blob/main/LICENSE).
 
 ---------
 ## Supported systems
